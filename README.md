@@ -1,137 +1,142 @@
-<h1 align="center">Hi 👋, I'm Tabish Firoz</h1>
+# 🚀 Tabish Firoz – Full Stack Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+Developer;CRM+Application+Developer;Open+Source+Learner&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Building+Scalable+Web+Applications;Open+to+Opportunities" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 B.Tech Computer Science Engineering Student (CGPA: 9.3)  
-🏫 Centurion University of Technology and Management  
-
-💼 Java Full Stack Developer Intern working on **Enterprise CRM Applications**
-
-🚀 Passionate about Backend Development & System Design  
-🌱 Currently improving Full Stack & Scalable Architecture Skills  
-
-📫 Email: **mdtabishfiroz04@gmail.com**
+💡 Passionate **Full Stack Software Developer** with experience in building scalable and user-friendly web applications.  
+🏢 Currently working on **Live Enterprise CRM Applications**.  
+🌱 Always learning and exploring new technologies.  
+⚡ Strong believer in clean code, scalable architecture, and team collaboration.
 
 ---
 
-## 🌐 Connect With Me
+## 🎓 Education
 
-<p align="left">
-<a href="https://github.com/firozmdtabish04">
-<img src="https://skillicons.dev/icons?i=github" height="40"/>
-</a>
-
-<a href="#">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
-</p>
+🎓 **B.E. Computer Science Engineering**  
+📍 Centurion University of Technology and Management, Bhubaneswar  
+📅 2023 – 2027  
+⭐ CGPA: **9.3/10**
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Tech Stack
 
 ### 💻 Programming
-![Tech](https://skillicons.dev/icons?i=java,js,cpp,python)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🎨 Frontend
-![Tech](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,angular)
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### ⚙️ Backend
-![Tech](https://skillicons.dev/icons?i=spring,nodejs,express)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
-### 🗄 Database
-![Tech](https://skillicons.dev/icons?i=mysql,mongodb)
-
-### 🛠 Tools
-![Tech](https://skillicons.dev/icons?i=git,github,vercel,npm)
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
 ## 💼 Professional Experience
 
-### 🏢 Java Full Stack Developer Intern — Lyient
-📅 Dec 2025 – Present  
+### 🔹 Java Full Stack Developer Intern – Lyient
+📅 Dec 2025 – Present
 
-✔ Developed live CRM enterprise applications  
-✔ Backend development using Spring Boot  
-✔ REST API development & Swagger documentation  
-✔ React frontend integration  
-✔ MySQL database operations  
-✔ Agile development collaboration  
+- Developed enterprise CRM applications  
+- Implemented backend logic using Spring Boot  
+- Designed REST APIs & Swagger Documentation  
+- Integrated React frontend with backend services  
+- Performed MySQL CRUD operations  
+- Worked in Agile environment & code reviews  
+
+---
+
+### 🔹 Web Developer Intern – Apex Planet
+📅 Apr 2025 – May 2025
+
+- Developed responsive UI  
+- Improved UX and performance  
 
 ---
 
-## 🚀 Featured Projects
+### 🔹 Full Stack Developer Intern – Code Alpha
+📅 May 2025 – July 2025
 
-### 🏥 Hospital Management System
-✔ Angular + Spring Boot + MySQL  
-✔ Patient & Appointment Management  
-✔ REST API Integration  
+- Built full stack features  
+- Fixed bugs and optimized functionality  
+- Worked with version control workflows  
 
 ---
+
+## 🚀 Projects
 
 ### 🌐 Portfolio Website
-✔ Responsive personal portfolio  
-✔ HTML, CSS, JavaScript  
+- Responsive personal portfolio  
+- Built with HTML, CSS, JavaScript  
 
 ---
 
-### 📝 Tech Blog Website
-✔ JSP + Servlets + MySQL  
-✔ CRUD & Database Connectivity  
+### 🏥 Hospital Management System
+- Angular + Spring Boot + MySQL  
+- Patient registration & appointment scheduling  
+- REST API based architecture  
 
 ---
 
-### 🎯 GuidanceHub
-✔ Mentorship & Learning Platform  
-✔ Scalable UI/UX Design  
+### ✍️ Tech Blog Website
+- JSP, Servlets & MySQL  
+- CRUD blog management system  
+
+---
+
+### 🎓 GuidanceHub
+- Mentorship and learning platform  
+- Scalable UI/UX design  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=firozmdtabish04&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=firozmdtabish04&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
+
+---
+
+## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firozmdtabish04&layout=compact&theme=tokyonight"/>
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 🏆 Achievements
+## 🌐 Connect With Me
 
-🏅 Web Design Certification  
-🏅 Prompt Engineering Certification  
-🏅 Hackathon Participant  
+📧 Email: **mdtabishfiroz04@gmail.com**  
+📱 Phone: **+91-8102946894**
 
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-<img src="https://github.com/firozmdtabish04/firozmdtabish04/blob/output/github-contribution-grid-snake.svg">
-</p>
+🔗 GitHub: https://github.com/YOUR_USERNAME  
+🔗 LinkedIn: YOUR_LINKEDIN_LINK  
+🌍 Portfolio: YOUR_PORTFOLIO_LINK  
 
 ---
 
-## 👀 Profile Visitors
+## 🎯 Career Goal
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=firozmdtabish04&label=Profile%20views&color=blue&style=flat" />
-</p>
+> To contribute to innovative software solutions while continuously enhancing my technical and professional skills in a collaborative environment.
 
 ---
 
-⭐ From [Tabish Firoz](https://github.com/firozmdtabish04)
+⭐ **If you like my work, consider giving a star to my repositories!**

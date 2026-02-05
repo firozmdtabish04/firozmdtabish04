@@ -1,56 +1,97 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Tabish Firoz</h1>
-<h3 align="center">Full Stack Developer | Computer Science Student | Tech Enthusiast</h3>
+<h3 align="center">Java Full Stack Developer | CSE Student | CRM Application Developer</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 I'm a 3rd Year Computer Science Student  
-🌱 Currently learning **Advanced Full Stack Development & Backend Architecture**  
-💡 Passionate about building **Web Applications & Real World Projects**  
-🤝 Looking to collaborate on **Open Source & Innovative Projects**  
-📫 Reach me at: **mdtabishfiroz04@gmail.com**
+🎓 B.Tech Computer Science Engineering Student (CGPA: 9.3)  
+🏫 Centurion University of Technology and Management  
+
+💼 Currently working as **Java Full Stack Developer Intern (Enterprise CRM Applications)**  
+
+🌱 Skilled in building scalable web applications using modern full-stack technologies  
+⚡ Strong interest in backend architecture and real-world system development  
+🚀 Passionate about learning new technologies and solving real problems  
+
+📫 Email: **mdtabishfiroz04@gmail.com**
 
 ---
 
-## 🌐 Connect With Me
+## 🏢 Professional Experience
 
-<p align="left">
-<a href="https://www.linkedin.com/in/tabish-firoz" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
+### 💼 Java Full Stack Developer Intern — Lyient
+🗓 Dec 2025 – Present  
 
-<a href="https://www.instagram.com/firozmdtabish/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" />
-</a>
+✔ Developed live enterprise CRM applications  
+✔ Implemented backend logic using Java & Spring Boot  
+✔ Designed RESTful APIs and API documentation using Swagger  
+✔ Integrated React frontend with backend services  
+✔ Performed database operations using MySQL  
+✔ Worked in Agile development environment  
 
-<a href="https://github.com/firozmdtabish04" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
-</p>
+---
+
+### 💻 Web Developer Intern — Apex Planet
+🗓 April 2025 – May 2025  
+
+✔ Developed responsive web pages  
+✔ Improved UI/UX design  
+
+---
+
+### 🌐 Full Stack Developer Intern — Code Alpha
+🗓 May 2025 – July 2025  
+
+✔ Built full stack applications  
+✔ Implemented new features and fixed bugs  
+✔ Worked with version control systems  
 
 ---
 
 ## 🚀 Tech Stack
 
-### 💻 Programming Languages
-![Languages](https://skillicons.dev/icons?i=cpp,python,js,ts,php)
+### 💻 Languages
+![Languages](https://skillicons.dev/icons?i=java,js,cpp,python)
 
-### 🎨 Frontend Development
-![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs,vite)
+### 🎨 Frontend
+![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,angular)
 
-### ⚙️ Backend Development
-![Backend](https://skillicons.dev/icons?i=nodejs,express)
+### ⚙️ Backend
+![Backend](https://skillicons.dev/icons?i=spring,nodejs,express)
 
-### 🗄️ Database
-![Database](https://skillicons.dev/icons?i=mongodb,mysql)
-
-### 🧠 AI / ML
-![AI](https://skillicons.dev/icons?i=tensorflow,pytorch)
+### 🗄 Database
+![Database](https://skillicons.dev/icons?i=mysql,mongodb)
 
 ### 🛠 Tools & Platforms
-![Tools](https://skillicons.dev/icons?i=git,github,vercel,npm,arduino)
+![Tools](https://skillicons.dev/icons?i=git,github,vercel,npm)
+
+---
+
+## 📌 Featured Projects
+
+### 🏥 Hospital Management System
+✔ Angular + Spring Boot + MySQL  
+✔ Patient registration and appointment scheduling  
+✔ RESTful API integration  
+
+---
+
+### 🌐 Portfolio Website
+✔ Responsive personal portfolio  
+✔ Built using HTML, CSS, JavaScript  
+
+---
+
+### 📝 Tech Blog Website
+✔ JSP + Servlets + MySQL  
+✔ CRUD functionality and database connectivity  
+
+---
+
+### 🎯 GuidanceHub
+✔ Mentorship and learning platform  
+✔ Scalable UI/UX based architecture  
 
 ---
 
@@ -70,34 +111,26 @@
 
 ---
 
-## 🔥 Current Focus
+## 🏆 Achievements
 
-✔ Full Stack Web Development  
-✔ Backend System Design  
-✔ Open Source Contributions  
-✔ Problem Solving & DSA  
+🏅 Web Design Certification  
+🏅 Prompt Engineering Certification  
+🏅 Hackathon Participant  
 
 ---
 
-## ⚡ Fun Fact
+## 🌐 Connect With Me
 
-I love building tools like calculators, stopwatch apps, and productivity utilities 😄
+<p align="left">
+<a href="https://www.linkedin.com/in/tabish-firoz">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="https://github.com/firozmdtabish04">
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
+</a>
+</p>
 
 ---
 
 ⭐ From [Tabish Firoz](https://github.com/firozmdtabish04)
-
-<!--
-**firozmdtabish04/firozmdtabish04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

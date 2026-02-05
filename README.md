@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tabish Firoz</h1>
-<h3 align="center">Java Full Stack Developer | CSE Student | CRM Application Developer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+Developer;CRM+Application+Developer;Open+Source+Learner&center=true&width=500&height=45">
+</p>
 
 ---
 
@@ -8,105 +11,101 @@
 🎓 B.Tech Computer Science Engineering Student (CGPA: 9.3)  
 🏫 Centurion University of Technology and Management  
 
-💼 Currently working as **Java Full Stack Developer Intern (Enterprise CRM Applications)**  
+💼 Java Full Stack Developer Intern working on **Enterprise CRM Applications**
 
-🌱 Skilled in building scalable web applications using modern full-stack technologies  
-⚡ Strong interest in backend architecture and real-world system development  
-🚀 Passionate about learning new technologies and solving real problems  
+🚀 Passionate about Backend Development & System Design  
+🌱 Currently improving Full Stack & Scalable Architecture Skills  
 
 📫 Email: **mdtabishfiroz04@gmail.com**
 
 ---
 
-## 🏢 Professional Experience
+## 🌐 Connect With Me
 
-### 💼 Java Full Stack Developer Intern — Lyient
-🗓 Dec 2025 – Present  
+<p align="left">
+<a href="https://github.com/firozmdtabish04">
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
+</a>
 
-✔ Developed live enterprise CRM applications  
-✔ Implemented backend logic using Java & Spring Boot  
-✔ Designed RESTful APIs and API documentation using Swagger  
-✔ Integrated React frontend with backend services  
-✔ Performed database operations using MySQL  
-✔ Worked in Agile development environment  
-
----
-
-### 💻 Web Developer Intern — Apex Planet
-🗓 April 2025 – May 2025  
-
-✔ Developed responsive web pages  
-✔ Improved UI/UX design  
-
----
-
-### 🌐 Full Stack Developer Intern — Code Alpha
-🗓 May 2025 – July 2025  
-
-✔ Built full stack applications  
-✔ Implemented new features and fixed bugs  
-✔ Worked with version control systems  
+<a href="#">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+</p>
 
 ---
 
 ## 🚀 Tech Stack
 
-### 💻 Languages
-![Languages](https://skillicons.dev/icons?i=java,js,cpp,python)
+### 💻 Programming
+![Tech](https://skillicons.dev/icons?i=java,js,cpp,python)
 
 ### 🎨 Frontend
-![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,angular)
+![Tech](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,angular)
 
 ### ⚙️ Backend
-![Backend](https://skillicons.dev/icons?i=spring,nodejs,express)
+![Tech](https://skillicons.dev/icons?i=spring,nodejs,express)
 
 ### 🗄 Database
-![Database](https://skillicons.dev/icons?i=mysql,mongodb)
+![Tech](https://skillicons.dev/icons?i=mysql,mongodb)
 
-### 🛠 Tools & Platforms
-![Tools](https://skillicons.dev/icons?i=git,github,vercel,npm)
+### 🛠 Tools
+![Tech](https://skillicons.dev/icons?i=git,github,vercel,npm)
 
 ---
 
-## 📌 Featured Projects
+## 💼 Professional Experience
+
+### 🏢 Java Full Stack Developer Intern — Lyient
+📅 Dec 2025 – Present  
+
+✔ Developed live CRM enterprise applications  
+✔ Backend development using Spring Boot  
+✔ REST API development & Swagger documentation  
+✔ React frontend integration  
+✔ MySQL database operations  
+✔ Agile development collaboration  
+
+---
+
+## 🚀 Featured Projects
 
 ### 🏥 Hospital Management System
 ✔ Angular + Spring Boot + MySQL  
-✔ Patient registration and appointment scheduling  
-✔ RESTful API integration  
+✔ Patient & Appointment Management  
+✔ REST API Integration  
 
 ---
 
 ### 🌐 Portfolio Website
 ✔ Responsive personal portfolio  
-✔ Built using HTML, CSS, JavaScript  
+✔ HTML, CSS, JavaScript  
 
 ---
 
 ### 📝 Tech Blog Website
 ✔ JSP + Servlets + MySQL  
-✔ CRUD functionality and database connectivity  
+✔ CRUD & Database Connectivity  
 
 ---
 
 ### 🎯 GuidanceHub
-✔ Mentorship and learning platform  
-✔ Scalable UI/UX based architecture  
+✔ Mentorship & Learning Platform  
+✔ Scalable UI/UX Design  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=firozmdtabish04&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=firozmdtabish04&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=firozmdtabish04&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=firozmdtabish04&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firozmdtabish04&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firozmdtabish04&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -119,16 +118,18 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🐍 Contribution Graph
+
+<p align="center">
+<img src="https://github.com/firozmdtabish04/firozmdtabish04/blob/output/github-contribution-grid-snake.svg">
+</p>
+
+---
+
+## 👀 Profile Visitors
 
 <p align="left">
-<a href="https://www.linkedin.com/in/tabish-firoz">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
-
-<a href="https://github.com/firozmdtabish04">
-<img src="https://skillicons.dev/icons?i=github" height="40"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=firozmdtabish04&label=Profile%20views&color=blue&style=flat" />
 </p>
 
 ---

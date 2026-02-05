@@ -130,20 +130,13 @@ Centurion University of Technology and Management
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tabishfiroz&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=firozmdtabish04&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tabishfiroz&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=firozmdtabish04&theme=tokyonight" />
 </p>
 
----
-
-## 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tabishfiroz/tabishfiroz/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 

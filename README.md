@@ -25,8 +25,8 @@ Passionate and self-motivated **Full Stack Software Developer** with hands-on ex
 📧 Email: mdtabishfiroz04@gmail.com  
 
 🔗 GitHub: https://github.com/YOUR_USERNAME  
-🔗 LinkedIn: YOUR_LINKEDIN_LINK  
-🌐 Portfolio: YOUR_PORTFOLIO_LINK  
+🔗 LinkedIn: https://www.linkedin.com/in/tabish-firoz/
+🌐 Portfolio:  https://firozmdtabish04.github.io/MyProtfolio---01/ 
 
 ---
 

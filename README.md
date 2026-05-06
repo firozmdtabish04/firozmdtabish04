@@ -24,7 +24,6 @@ Passionate and self-motivated **Full Stack Software Developer** with hands-on ex
 📱 Phone: +91-8102946894  
 📧 Email: mdtabishfiroz04@gmail.com  
 
-🔗 GitHub: https://github.com/YOUR_USERNAME  
 🔗 LinkedIn: https://www.linkedin.com/in/tabish-firoz/
 🌐 Portfolio:  https://firozmdtabish04.github.io/MyProtfolio---01/ 
 

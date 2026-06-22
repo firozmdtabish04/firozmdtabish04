@@ -21,9 +21,9 @@ Java Full Stack Developer | Spring Boot | React | MySQL
 
 ## About Me
 
-🎓 B.Tech Computer Science Engineering Student (2023–2027)
-🏫 Centurion University of Technology and Management, Bhubaneswar
-⭐ CGPA: **9.3/10**
+ B.Tech Computer Science Engineering Student (2023–2027)
+ Centurion University of Technology and Management, Bhubaneswar
+ CGPA: **9.3/10**
 
 Passionate and self-motivated Full Stack Software Developer with hands-on experience in building scalable and user-friendly web applications. Currently working on live enterprise CRM applications with expertise in Java, Spring Boot, React, and MySQL.
 
@@ -243,9 +243,9 @@ I'm always interested in:
 ---
 
 <p align="center">
-  <b>"Code. Learn. Build. Improve. Repeat."</b>
+  <b>"Write Once, Run Anywhere"</b>
 </p>
 
 <p align="center">
-⭐ Thanks for visiting my profile! Feel free to connect and collaborate.
+Thanks for visiting my profile! Feel free to connect and collaborate.
 </p>

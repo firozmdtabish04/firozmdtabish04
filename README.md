@@ -1,158 +1,214 @@
-<h1 align="center">Hi 👋, I'm Tabish Firoz</h1>
-<h3 align="center">🚀 Full Stack Developer | Java | Spring Boot | React | MySQL</h3>
+# Hi 👋, I'm Tabish Firoz
+
+<h3 align="center">🚀 Java Full Stack Developer | Spring Boot | React | MySQL</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Enterprise+CRM+Developer;Java+%7C+Spring+Boot+%7C+React;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+Developer;Enterprise+CRM+Developer;Always+Learning+New+Technologies" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/firozmdtabish04">
+    <img src="https://komarev.com/ghpvc/?username=firozmdtabish04&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+  <a href="https://github.com/firozmdtabish04">
+    <img src="https://img.shields.io/github/followers/firozmdtabish04?label=Followers&style=social" />
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 Profile
+## 💫 About Me
 
-Passionate and self-motivated **Full Stack Software Developer** with hands-on experience in building scalable and user-friendly web applications.
+🎓 B.Tech Computer Science Engineering Student (2023–2027)
+🏫 Centurion University of Technology and Management, Bhubaneswar
+⭐ CGPA: **9.3/10**
 
-✔ Currently working on **Live Enterprise CRM Applications**  
-✔ Strong foundation in **Java, Spring Boot, React, MySQL**  
-✔ Certified in **Web Design & Prompt Engineering**  
-✔ Agile Environment Experience  
-✔ Quick Learner & Team Collaborator  
+💻 Passionate Java Full Stack Developer with practical experience in:
 
----
-
-## 📞 Contact Information
-
-📱 Phone: +91-8102946894  
-📧 Email: mdtabishfiroz04@gmail.com  
-
-🔗 LinkedIn: https://www.linkedin.com/in/tabish-firoz/
-🌐 Portfolio:  https://firozmdtabish04.github.io/MyProtfolio---01/ 
+* Enterprise CRM Development
+* REST API Development
+* Spring Boot Applications
+* React Frontend Development
+* Database Design using MySQL
+* Agile Development Practices
 
 ---
 
-## 🎓 Education
+## 🚀 Current Focus
 
-🎓 Bachelor of Engineering in Computer Science Engineering  
-🏫 Centurion University of Technology and Management, Bhubaneswar  
-📅 2023 – 2027  
-⭐ CGPA: 9.3 / 10  
+* 🔭 Working on Enterprise CRM Applications
+* 🌱 Learning System Design & Microservices
+* 👨‍💻 Building Full Stack Applications
+* 💡 Exploring Cloud & DevOps Technologies
+* 🎯 Preparing for Product-Based Companies
 
 ---
 
-## 🛠️ Technical Skills
+## 🌐 Connect With Me
 
-### 💻 Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+<p align="left">
+<a href="https://www.linkedin.com/in/tabish-firoz/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<a href="mailto:mdtabishfiroz04@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-### ⚙️ Backend
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-
-### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🧠 Scripting
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<a href="https://firozmdtabish04.github.io/MyProtfolio---01/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+</a>
+</p>
 
 ---
 
 ## 💼 Professional Experience
 
-### 🔹 Java Full Stack Developer Intern – Lyient
+### Java Full Stack Developer Intern | Lyient
+
 📅 Dec 2025 – Present
 
-- Developed and maintained live enterprise CRM applications  
-- Implemented backend business logic using Spring Boot  
-- Designed REST APIs & Swagger Documentation  
-- Integrated React frontend with backend services  
-- Performed MySQL CRUD operations  
-- Participated in Agile sprint discussions and code reviews  
+* Developed enterprise CRM applications.
+* Built REST APIs using Spring Boot.
+* Integrated React frontend with backend services.
+* Designed database operations using MySQL.
+* Participated in Agile development and code reviews.
+* Created API documentation using Swagger.
 
 ---
 
-### 🔹 Web Developer Intern – Apex Planet
+### Web Developer Intern | Apex Planet
+
 📅 Apr 2025 – May 2025
 
-- Developed responsive web pages  
-- Improved UI/UX design  
+* Developed responsive websites.
+* Improved user interface and user experience.
+* Worked on modern frontend technologies.
 
 ---
 
-### 🔹 Full Stack Developer Intern – Code Alpha
-📅 May 2025 – July 2025
+### Full Stack Developer Intern | Code Alpha
 
-- Built application features  
-- Resolved bugs and optimized functionality  
-- Worked with version control and collaboration tools  
+📅 May 2025 – Jul 2025
+
+* Developed application features.
+* Fixed bugs and optimized application performance.
+* Collaborated using Git and version control tools.
 
 ---
 
-### 🏆 Hackathon Participant
-Centurion University of Technology and Management  
-📅 March 2025  
+## 🛠️ Tech Stack
+
+### Programming Languages
+
+![Java](https://skillicons.dev/icons?i=java)
+
+### Frontend Development
+
+![Frontend](https://skillicons.dev/icons?i=react,angular,html,css,js,bootstrap,tailwind)
+
+### Backend Development
+
+![Backend](https://skillicons.dev/icons?i=spring)
+
+### Database
+
+![Database](https://skillicons.dev/icons?i=mysql)
+
+### Tools & Technologies
+
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman)
 
 ---
 
 ## 🚀 Projects
 
-### 🌐 Portfolio Website
-- Responsive personal portfolio  
-- Built using HTML, CSS, JavaScript  
-
----
-
 ### 🏥 Hospital Management System
-- Angular + Spring Boot + MySQL  
-- Patient Registration & Appointment Scheduling  
-- REST API Architecture  
+
+**Angular + Spring Boot + MySQL**
+
+* Patient registration system
+* Appointment scheduling
+* REST API architecture
+* Role-based functionality
 
 ---
 
-### ✍️ Tech Blog Website
-- JSP, Servlets, MySQL  
-- Full CRUD Blog Platform  
+### 🌐 Personal Portfolio Website
+
+* Responsive design
+* HTML, CSS, JavaScript
+* Modern UI/UX design
+
+---
+
+### ✍️ Tech Blog Platform
+
+* JSP & Servlets
+* User authentication
+* CRUD operations
+* MySQL integration
 
 ---
 
 ### 🎓 GuidanceHub
-- Mentorship and Learning Platform  
-- Scalable and User Friendly UI  
+
+* Mentorship platform
+* Student learning system
+* Responsive user interface
+* Scalable architecture
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Achievements
 
+🏅 Hackathon Participant – Centurion University (2025)
 
+🏅 Certified in Web Design
+
+🏅 Certified in Prompt Engineering
+
+🏅 Multiple Internship Experiences
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=firozmdtabish04&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=firozmdtabish04&show_icons=true&theme=tokyonight" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firozmdtabish04&layout=compact&theme=tokyonight"/>
 </p>
 
-
-
-
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=firozmdtabish04&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🎯 Career Objective
 
-To contribute to innovative software solutions while continuously improving technical and professional skills in a collaborative environment.
+To contribute to innovative software solutions while continuously improving technical and professional skills in a collaborative environment while delivering impactful applications.
 
 ---
 
-## 🌟 Additional Strengths
+## 🌟 Strengths
 
-✔ Strong Communication Skills  
-✔ Team Collaboration  
-✔ Continuous Learning Mindset  
-✔ Passionate About New Technologies  
+✔ Problem Solving
+✔ Team Collaboration
+✔ Quick Learner
+✔ Communication Skills
+✔ Continuous Learning
+✔ Leadership Qualities
 
 ---
 
-⭐ If you like my work, consider giving a star to my repositories!
+## 💡 Quote
+
+> "Code. Learn. Build. Improve. Repeat."
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile! Feel free to connect and collaborate.
+</p>

@@ -1,7 +1,7 @@
-# Hi 👋, I'm Tabish Firoz
+# Hi , I'm Tabish Firoz
 
 <h3 align="center">
-🚀 Java Full Stack Developer | Spring Boot | React | MySQL
+Java Full Stack Developer | Spring Boot | React | MySQL
 </h3>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 ---
 
-## 💫 About Me
+## About Me
 
 🎓 B.Tech Computer Science Engineering Student (2023–2027)
 🏫 Centurion University of Technology and Management, Bhubaneswar
@@ -27,15 +27,15 @@
 
 Passionate and self-motivated Full Stack Software Developer with hands-on experience in building scalable and user-friendly web applications. Currently working on live enterprise CRM applications with expertise in Java, Spring Boot, React, and MySQL.
 
-* 🔭 Working on Enterprise CRM Applications
-* 🌱 Learning Microservices & System Design
-* 🚀 Passionate about Backend Development
-* 💡 Interested in Cloud & Modern Web Technologies
-* 🎯 Preparing for Software Engineering Roles
+*  Working on Enterprise CRM Applications
+*  Learning Microservices & System Design
+*  Passionate about Backend Development
+*  Interested in Cloud & Modern Web Technologies
+*  Preparing for Software Engineering Roles
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/tabish-firoz/" target="_blank">
@@ -46,18 +46,23 @@ Passionate and self-motivated Full Stack Software Developer with hands-on experi
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://firozmdtabish04.github.io/MyProtfolio---01/">
+<a href="https://firozmdtabish04.github.io/MyProtfolio---01/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/firozmdtabish/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 </p>
 
+
 ---
 
-# 💼 Experience
+#  Experience
 
 ## Java Full Stack Developer Intern | Lyient Solutions
 
-📅 January 2026 – Present
+ January 2026 – Present
 
 * Developing and maintaining live enterprise CRM applications.
 * Building scalable RESTful APIs using Spring Boot.
@@ -69,7 +74,7 @@ Passionate and self-motivated Full Stack Software Developer with hands-on experi
 
 ## Web Developer Intern | Apex Planet Software Pvt. Ltd.
 
-📅 May 2025 – June 2025
+ May 2025 – June 2025
 
 * Contributed to a real-time E-commerce web application.
 * Developed APIs for user, product, and order management.
@@ -78,9 +83,9 @@ Passionate and self-motivated Full Stack Software Developer with hands-on experi
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
-## 🏢 Customer Relationship Management System (Live)
+##  Customer Relationship Management System (Live)
 
 **Java • Spring Boot • React.js • MySQL**
 
@@ -92,7 +97,7 @@ Passionate and self-motivated Full Stack Software Developer with hands-on experi
 
 ---
 
-## 🤖 AI Core – Intelligent Learning Platform
+##  AI Core – Intelligent Learning Platform
 
 **React.js • Tailwind CSS • REST APIs**
 
@@ -103,7 +108,7 @@ Passionate and self-motivated Full Stack Software Developer with hands-on experi
 
 ---
 
-## 🎓 Student Hub – Academic Management Platform
+##  Student Hub – Academic Management Platform
 
 **React.js • JavaScript • Tailwind CSS**
 
@@ -114,7 +119,7 @@ Passionate and self-motivated Full Stack Software Developer with hands-on experi
 
 ---
 
-## 🏥 Hospital Management System
+##  Hospital Management System
 
 **Angular • Spring Boot • MySQL**
 
@@ -125,7 +130,7 @@ Passionate and self-motivated Full Stack Software Developer with hands-on experi
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
 ### Languages
 
@@ -159,7 +164,7 @@ Passionate and self-motivated Full Stack Software Developer with hands-on experi
 
 ---
 
-# 📚 Currently Learning
+# Currently Learning
 
 * System Design
 * Microservices Architecture
@@ -169,21 +174,21 @@ Passionate and self-motivated Full Stack Software Developer with hands-on experi
 
 ---
 
-# 🏆 Achievements
+#  Achievements
 
-🏅 Java Full Stack Developer Intern
+ Java Full Stack Developer Intern
 
-🏅 Web Design Certification
+ Web Design Certification
 
-🏅 Prompt Engineering Certification
+ Prompt Engineering Certification
 
-🏅 Web Design Hackathon Participant
+ Web Design Hackathon Participant
 
-🏅 IIT Bhubaneswar Hackathon Participant
+ IIT Bhubaneswar Hackathon Participant
 
 ---
 
-# 📈 GitHub Statistics
+#  GitHub Statistics
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=firozmdtabish04&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -201,7 +206,7 @@ Passionate and self-motivated Full Stack Software Developer with hands-on experi
 
 ---
 
-# 💪 Strengths
+#  Strengths
 
 ✔ Full Stack Development
 
@@ -219,13 +224,13 @@ Passionate and self-motivated Full Stack Software Developer with hands-on experi
 
 ---
 
-# 🎯 Career Goal
+#  Career Goal
 
 To contribute to innovative software solutions by building scalable and efficient applications while continuously enhancing my technical and professional skills.
 
 ---
 
-# 💬 Let's Connect
+#  Let's Connect
 
 I'm always interested in:
 

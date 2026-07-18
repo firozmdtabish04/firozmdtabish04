@@ -62,7 +62,7 @@ Passionate and self-motivated Full Stack Software Developer with hands-on experi
 
 ## Java Full Stack Developer Intern | Lyient Solutions
 
- January 2026 – Present
+ January 2026 – July 2026
 
 * Developing and maintaining live enterprise CRM applications.
 * Building scalable RESTful APIs using Spring Boot.

@@ -274,6 +274,35 @@ I'm interested in collaborating on:
 
 ---
 
+---
+
+# 📖 Published Book
+
+## Core Java: From Beginners to Advanced
+
+<img align="right" width="180" src="YOUR_BOOK_COVER_IMAGE_LINK"/>
+
+A comprehensive guide for students and aspiring Java developers, covering Java fundamentals through advanced concepts with practical examples and hands-on exercises.
+
+### 📚 What You'll Learn
+
+- Core Java Fundamentals
+- Object-Oriented Programming (OOP)
+- Exception Handling
+- Collections Framework
+- Multithreading
+- File Handling
+- JDBC
+- Java 8 Features (Lambda & Stream API)
+- Best Practices & Interview Questions
+
+📖 **Available on Google Play Books**
+
+👉 https://play.google.com/store/books/details/Tabish_Firoz_Core_Java_from_beginners_to_advanced?id=53XwEQAAQBAJ
+
+---
+
+
 <p align="center">
 
 ### ⭐ If you like my work, consider giving a star ⭐
